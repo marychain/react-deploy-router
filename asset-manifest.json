@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-deploy-router/static/css/main.3be1ccb3.chunk.css",
+    "main.js": "/react-deploy-router/static/js/main.439a7201.chunk.js",
+    "main.js.map": "/react-deploy-router/static/js/main.439a7201.chunk.js.map",
+    "runtime-main.js": "/react-deploy-router/static/js/runtime-main.987a2d38.js",
+    "runtime-main.js.map": "/react-deploy-router/static/js/runtime-main.987a2d38.js.map",
+    "static/js/2.7c03302f.chunk.js": "/react-deploy-router/static/js/2.7c03302f.chunk.js",
+    "static/js/2.7c03302f.chunk.js.map": "/react-deploy-router/static/js/2.7c03302f.chunk.js.map",
+    "static/js/3.5f4ee490.chunk.js": "/react-deploy-router/static/js/3.5f4ee490.chunk.js",
+    "static/js/3.5f4ee490.chunk.js.map": "/react-deploy-router/static/js/3.5f4ee490.chunk.js.map",
+    "index.html": "/react-deploy-router/index.html",
+    "static/css/main.3be1ccb3.chunk.css.map": "/react-deploy-router/static/css/main.3be1ccb3.chunk.css.map",
+    "static/js/2.7c03302f.chunk.js.LICENSE.txt": "/react-deploy-router/static/js/2.7c03302f.chunk.js.LICENSE.txt",
+    "static/media/House.af8013c5.png": "/react-deploy-router/static/media/House.af8013c5.png",
+    "static/media/dr_house.24fbdd32.jpg": "/react-deploy-router/static/media/dr_house.24fbdd32.jpg",
+    "static/media/drhouse.19ccc6d6.jpg": "/react-deploy-router/static/media/drhouse.19ccc6d6.jpg",
+    "static/media/everybody.30c7ea26.jpg": "/react-deploy-router/static/media/everybody.30c7ea26.jpg",
+    "static/media/house1.a97ff643.jpg": "/react-deploy-router/static/media/house1.a97ff643.jpg",
+    "static/media/house2.dc5a7b0c.jpg": "/react-deploy-router/static/media/house2.dc5a7b0c.jpg",
+    "static/media/house3.e4e93fa9.jpg": "/react-deploy-router/static/media/house3.e4e93fa9.jpg",
+    "static/media/house4.a89c9540.jpg": "/react-deploy-router/static/media/house4.a89c9540.jpg",
+    "static/media/house5.beb84f64.jpg": "/react-deploy-router/static/media/house5.beb84f64.jpg",
+    "static/media/house6.8c6ef7d3.jpg": "/react-deploy-router/static/media/house6.8c6ef7d3.jpg",
+    "static/media/house7.220f5813.jpg": "/react-deploy-router/static/media/house7.220f5813.jpg",
+    "static/media/house8.64d9f6c0.jpg": "/react-deploy-router/static/media/house8.64d9f6c0.jpg",
+    "static/media/house9.32a7cda6.jpg": "/react-deploy-router/static/media/house9.32a7cda6.jpg",
+    "static/media/likes.9b4eef74.png": "/react-deploy-router/static/media/likes.9b4eef74.png",
+    "static/media/man.cabdd7fc.png": "/react-deploy-router/static/media/man.cabdd7fc.png",
+    "static/media/woman.a7a258c3.png": "/react-deploy-router/static/media/woman.a7a258c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.987a2d38.js",
+    "static/js/2.7c03302f.chunk.js",
+    "static/css/main.3be1ccb3.chunk.css",
+    "static/js/main.439a7201.chunk.js"
+  ]
+}
