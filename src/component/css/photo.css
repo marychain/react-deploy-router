@@ -1,0 +1,18 @@
+.photo {
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.photo_items {
+    width: 800px;
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.photo_items > img{
+    width: 250px; 
+    height: 200px;
+    margin: 5px;
+}

@@ -1,0 +1,15 @@
+.home_page {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-text {
+    width: 80%;
+    font-size: 1.2em;
+    text-align:center;
+}
+
+

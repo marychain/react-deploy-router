@@ -1,0 +1,51 @@
+.Find {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.find_input {
+    outline: none;
+    border: none;
+    height: 30px;
+}
+
+.find_input {
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+.Contacts {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.contact {
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 7px;
+    text-align: center;
+}
+
+.contact_check {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+
+.contact_phone,
+.contact_name,
+.contact_gender {
+    margin: 0;
+    padding: 0;
+}
+.contact_gender {
+    width: 20px;
+}
+
+.check_item {
+    color: #fff;
+    font-weight: 600;
+}
